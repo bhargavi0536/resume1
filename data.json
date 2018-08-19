@@ -1,0 +1,46 @@
+{
+	"basics":{
+		"name":"bhargavi",
+		"role":"mean-stack",
+		"mobile":"+91 9494263010",
+		"email":"bhargavimannambujji@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+   { 
+	"degree":"b.tech(computer science and engineering)",
+	"institute":"vignan's nirula",
+     "data":["2016-20","72%"]
+     },
+	{
+	"degree":"intermediate(mpc)",
+	"institute":"sri chaitanya",
+     "data":["2014-16","89%"]
+     },
+ {
+	"degree":"s.s.c",
+	"institute":"st.johns high school",
+     "data":["2013-14","90%"]
+     }
+ ],
+  "skills":[
+      {
+        "title":"programming languages",
+        "content":["python","c","java","RP","c++"]
+      },
+      {
+        "title":"Data Bases",
+        "content":["sql","Oracle","my sql"]
+      },
+     {
+        "title":"web technologies",
+        "content":["HTML","XML","java script"]
+      },
+      {
+        "title":"Operating systems",
+        "content":["windows","unix","linux"]
+      } 
+  ]
+}
